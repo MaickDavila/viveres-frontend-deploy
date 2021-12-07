@@ -317,50 +317,50 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "src/pages/Unidad.vue": [
-    "/assets/Unidad.9fc55e6b.js"
+    "/assets/Unidad.0529b864.js"
   ],
   "~icons/ic/sharp-search": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "~icons/ic/baseline-add-circle-outline": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "~icons/mdi/trash-can": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "src/stores/utils.ts": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "src/components/UIComponents/DialogConfirm.vue": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "src/components/UIComponents/TableComponent.vue": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "~icons/mdi/arrow-left": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "~icons/mdi/arrow-right": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "~icons/mdi/close-box": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue": [
-    "/assets/DataTableComponent.64a02618.js",
+    "/assets/DataTableComponent.0215f515.js",
     "/assets/DataTableComponent.9b70e502.css"
   ],
   "node_modules/.pnpm/mosha-vue-toastify@1.0.23/node_modules/mosha-vue-toastify/dist/mosha-vue-toastify.es.js": [
@@ -372,85 +372,85 @@
     "/assets/style.1af98de6.css"
   ],
   "src/stores/unidad.ts": [
-    "/assets/unidad.c4d0ba57.js"
+    "/assets/unidad.6723370f.js"
   ],
   "src/pages/Reportes.vue": [
-    "/assets/Reportes.64fb5496.js"
+    "/assets/Reportes.64f30244.js"
   ],
   "src/pages/README.md": [
     "/assets/README.f9e2f2cd.js"
   ],
   "src/stores/proveedor.ts": [
-    "/assets/Proveedor.e8134289.js"
+    "/assets/Proveedor.52bb9215.js"
   ],
   "src/pages/Proveedor.vue": [
-    "/assets/Proveedor.e8134289.js"
+    "/assets/Proveedor.52bb9215.js"
   ],
   "~icons/mdi/barcode-scan": [
-    "/assets/Producto.b0569d34.js"
+    "/assets/Producto.fa405859.js"
   ],
   "src/stores/productoUnidad.ts": [
-    "/assets/Producto.b0569d34.js"
+    "/assets/Producto.fa405859.js"
   ],
   "src/pages/Producto.vue": [
-    "/assets/Producto.b0569d34.js"
+    "/assets/Producto.fa405859.js"
   ],
   "src/stores/producto.ts": [
-    "/assets/producto.d33618ac.js"
+    "/assets/producto.f7654ec2.js"
   ],
   "src/stores/categoria.ts": [
-    "/assets/categoria.21eea1b3.js"
+    "/assets/categoria.708860fe.js"
   ],
   "src/pages/Proceso.vue": [
-    "/assets/Proceso.6ed56752.js"
+    "/assets/Proceso.0403836c.js"
   ],
   "src/stores/proceso.ts": [
-    "/assets/proceso.5a4287ff.js"
+    "/assets/proceso.59d8891f.js"
   ],
   "src/stores/pedidos.ts": [
-    "/assets/Pedidos.393371f1.js"
+    "/assets/Pedidos.be8e7a18.js"
   ],
   "src/pages/Pedidos.vue": [
-    "/assets/Pedidos.393371f1.js"
+    "/assets/Pedidos.be8e7a18.js"
   ],
   "src/stores/almacen.ts": [
-    "/assets/almacen.8ddf1196.js"
+    "/assets/almacen.8528396a.js"
   ],
   "src/stores/notas.ts": [
-    "/assets/Notas.06a810a9.js"
+    "/assets/Notas.7020120e.js"
   ],
   "src/stores/notasdetalles.ts": [
-    "/assets/Notas.06a810a9.js"
+    "/assets/Notas.7020120e.js"
   ],
   "src/pages/Notas.vue": [
-    "/assets/Notas.06a810a9.js"
+    "/assets/Notas.7020120e.js"
   ],
   "src/stores/lote.ts": [
-    "/assets/Lote.1aae7ee8.js"
+    "/assets/Lote.40324579.js"
   ],
   "src/pages/Lote.vue": [
-    "/assets/Lote.1aae7ee8.js"
+    "/assets/Lote.40324579.js"
   ],
   "~icons/flat-color-icons/broken-link": [
-    "/assets/Login.56fe4584.js"
+    "/assets/Login.184518ed.js"
   ],
   "src/pages/Login.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/Login.56fe4584.js"
+    "/assets/Login.184518ed.js"
   ],
   "src/pages/Login.vue": [
-    "/assets/Login.56fe4584.js"
+    "/assets/Login.184518ed.js"
   ],
   "src/components/UIComponents/InputSearch.vue": [
-    "/assets/Components.4505eebc.js"
+    "/assets/Components.10f9ddd8.js"
   ],
   "src/pages/Components.vue": [
-    "/assets/Components.4505eebc.js"
+    "/assets/Components.10f9ddd8.js"
   ],
   "src/pages/Categoria.vue": [
-    "/assets/Categoria.aea13ffc.js"
+    "/assets/Categoria.f007aa59.js"
   ],
   "src/pages/Almacen.vue": [
-    "/assets/Almacen.2aa91805.js"
+    "/assets/Almacen.74d29516.js"
   ],
   "~icons/carbon/dicom-overlay": [
     "/assets/about.c31651db.js"
@@ -459,10 +459,10 @@
     "/assets/about.c31651db.js"
   ],
   "~icons/carbon/pedestrian": [
-    "/assets/[name].ac8c8ba3.js"
+    "/assets/[name].f1fe71a6.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/[name].ac8c8ba3.js"
+    "/assets/[name].f1fe71a6.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
     "/assets/[...all].d12152df.js"
@@ -477,6 +477,6 @@
     "/assets/404.0ee31fb8.js"
   ],
   "src/layouts/empty.vue": [
-    "/assets/empty.99d16b85.js"
+    "/assets/empty.849d9d57.js"
   ]
 }
