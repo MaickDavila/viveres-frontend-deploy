@@ -317,58 +317,58 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "src/pages/Unidad.vue": [
-    "/assets/Unidad.06cb8104.js"
+    "/assets/Unidad.0cc9b24b.js"
   ],
   "~icons/ic/sharp-search": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "~icons/ic/baseline-add-circle-outline": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "~icons/mdi/trash-can": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "node_modules/.pnpm/gitart-vue-dialog@1.1.0_vue@3.2.18/node_modules/gitart-vue-dialog/dist/index.es.js": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "src/stores/utils.ts": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "src/components/UIComponents/DialogConfirm.vue": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "src/components/UIComponents/TableComponent.vue": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "~icons/mdi/arrow-left": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "~icons/mdi/arrow-right": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "~icons/mdi/close-box": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "node_modules/.pnpm/gitart-vue-dialog@1.1.0_vue@3.2.18/node_modules/gitart-vue-dialog/dist/style.css": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue": [
-    "/assets/DataTableComponent.3622d4af.js",
+    "/assets/DataTableComponent.2f5ba599.js",
     "/assets/DataTableComponent.5206b0ef.css"
   ],
   "node_modules/.pnpm/vue3-loading-overlay@0.0.0_vue@3.2.18/node_modules/vue3-loading-overlay/dist/index.js": [
@@ -388,82 +388,82 @@
     "/assets/style.5e47b96f.css"
   ],
   "src/stores/unidad.ts": [
-    "/assets/unidad.3ff2f50d.js"
+    "/assets/unidad.2533b13e.js"
   ],
   "src/pages/Reportes.vue": [
-    "/assets/Reportes.d7c0b27e.js"
+    "/assets/Reportes.88d07faa.js"
   ],
   "src/pages/README.md": [
     "/assets/README.168ba66d.js"
   ],
   "src/stores/proveedor.ts": [
-    "/assets/Proveedor.176171be.js"
+    "/assets/Proveedor.c1a812b8.js"
   ],
   "src/pages/Proveedor.vue": [
-    "/assets/Proveedor.176171be.js"
+    "/assets/Proveedor.c1a812b8.js"
   ],
   "~icons/mdi/barcode-scan": [
-    "/assets/Producto.0f3444ba.js"
+    "/assets/Producto.32167633.js"
   ],
   "src/stores/producto.ts": [
-    "/assets/Producto.0f3444ba.js"
+    "/assets/Producto.32167633.js"
   ],
   "src/stores/productoUnidad.ts": [
-    "/assets/Producto.0f3444ba.js"
+    "/assets/Producto.32167633.js"
   ],
   "src/pages/Producto.vue": [
-    "/assets/Producto.0f3444ba.js"
+    "/assets/Producto.32167633.js"
   ],
   "src/stores/categoria.ts": [
-    "/assets/categoria.8197a283.js"
+    "/assets/categoria.3edaff1c.js"
   ],
   "src/pages/Proceso.vue": [
-    "/assets/Proceso.7e04a388.js"
+    "/assets/Proceso.2b283409.js"
   ],
   "src/stores/proceso.ts": [
-    "/assets/proceso.b44daf4e.js"
+    "/assets/proceso.114b0404.js"
   ],
   "src/stores/pedidos.ts": [
-    "/assets/Pedidos.ec9683f6.js"
+    "/assets/Pedidos.9ccb93b7.js"
   ],
   "src/pages/Pedidos.vue": [
-    "/assets/Pedidos.ec9683f6.js"
+    "/assets/Pedidos.9ccb93b7.js"
   ],
   "src/stores/almacen.ts": [
-    "/assets/almacen.f9bd9af4.js"
+    "/assets/almacen.49796c0d.js"
   ],
   "src/stores/notas.ts": [
-    "/assets/Notas.7f3247ce.js"
+    "/assets/Notas.30424e20.js"
   ],
   "src/pages/Notas.vue": [
-    "/assets/Notas.7f3247ce.js"
+    "/assets/Notas.30424e20.js"
   ],
   "src/stores/lote.ts": [
-    "/assets/Lote.e7325d49.js"
+    "/assets/Lote.0613872d.js"
   ],
   "src/pages/Lote.vue": [
-    "/assets/Lote.e7325d49.js"
+    "/assets/Lote.0613872d.js"
   ],
   "~icons/flat-color-icons/broken-link": [
-    "/assets/Login.f964cae9.js"
+    "/assets/Login.2ca9a540.js"
   ],
   "src/pages/Login.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/Login.f964cae9.js"
+    "/assets/Login.2ca9a540.js"
   ],
   "src/pages/Login.vue": [
-    "/assets/Login.f964cae9.js"
+    "/assets/Login.2ca9a540.js"
   ],
   "src/components/UIComponents/InputSearch.vue": [
-    "/assets/Components.9e6ecad4.js"
+    "/assets/Components.6545b081.js"
   ],
   "src/pages/Components.vue": [
-    "/assets/Components.9e6ecad4.js"
+    "/assets/Components.6545b081.js"
   ],
   "src/pages/Categoria.vue": [
-    "/assets/Categoria.f3a8319d.js"
+    "/assets/Categoria.1fa85a33.js"
   ],
   "src/pages/Almacen.vue": [
-    "/assets/Almacen.7da549cf.js"
+    "/assets/Almacen.40baf97b.js"
   ],
   "~icons/carbon/dicom-overlay": [
     "/assets/about.1541d9fa.js"
@@ -472,10 +472,10 @@
     "/assets/about.1541d9fa.js"
   ],
   "~icons/carbon/pedestrian": [
-    "/assets/[name].cc3c5a19.js"
+    "/assets/[name].14c08e19.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/[name].cc3c5a19.js"
+    "/assets/[name].14c08e19.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
     "/assets/[...all].99c41aad.js"
@@ -490,6 +490,6 @@
     "/assets/404.1feab638.js"
   ],
   "src/layouts/empty.vue": [
-    "/assets/empty.60d5c6f8.js"
+    "/assets/empty.6e77d388.js"
   ]
 }
