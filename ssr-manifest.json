@@ -38,277 +38,277 @@
   "src/main.ts": [],
   "index.html": [],
   "\u0000commonjsHelpers.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js?commonjs-module": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/bind.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/bind.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/utils.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/utils.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/buildURL.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/buildURL.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/InterceptorManager.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/InterceptorManager.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/normalizeHeaderName.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/normalizeHeaderName.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/enhanceError.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/enhanceError.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/createError.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/createError.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/settle.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/settle.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/cookies.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/cookies.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAbsoluteURL.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAbsoluteURL.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/combineURLs.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/combineURLs.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/buildFullPath.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/buildFullPath.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/parseHeaders.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/parseHeaders.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isURLSameOrigin.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isURLSameOrigin.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/defaults.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/Cancel.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/Cancel.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/adapters/xhr.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/adapters/xhr.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/defaults.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/transformData.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/transformData.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/isCancel.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/isCancel.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/dispatchRequest.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/dispatchRequest.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/mergeConfig.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/mergeConfig.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/env/data.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/env/data.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/validator.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/validator.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/Axios.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/core/Axios.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/CancelToken.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/cancel/CancelToken.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/spread.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/spread.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAxiosError.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/helpers/isAxiosError.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/axios@0.24.0/node_modules/axios/lib/axios.js?commonjs-proxy": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/axios@0.24.0/node_modules/axios/index.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+shared@9.1.7/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+message-resolver@9.1.7/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+runtime@9.1.7/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+message-compiler@9.1.7/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+devtools-if@9.1.7/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.1.7/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+shared@3.2.18/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.2.18/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+runtime-core@3.2.18/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+runtime-dom@3.2.18/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vue@3.2.18/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.15/node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@intlify+vue-devtools@9.1.7/node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vue-i18n@9.1.7_vue@3.2.18/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "\u0000D:/Desarrollo/ViveresApp/viveres-frontend/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vue-demi@0.11.4_vue@3.2.18/node_modules/vue-demi/lib/index.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/pinia@2.0.0-rc.9_typescript@4.4.3+vue@3.2.18/node_modules/pinia/dist/pinia.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.16.2_d5b48c261902a0d4b927a791a51c3a34/node_modules/vite-ssg/dist/chunk-OOHBVVVU.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.16.2_d5b48c261902a0d4b927a791a51c3a34/node_modules/vite-ssg/dist/chunk-3CXI7ORQ.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vue-router@4.0.11_vue@3.2.18/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/@vueuse+head@0.6.0_vue@3.2.18/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/vite-ssg@0.16.2_d5b48c261902a0d4b927a791a51c3a34/node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/vendor.f30c4ba5.js"
+    "/assets/vendor.9b92c9a3.js"
   ],
   "node_modules/.pnpm/workbox-window@6.3.0/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.8a948207.js"
@@ -317,193 +317,208 @@
     "/assets/virtual_pwa-register.8a948207.js"
   ],
   "src/pages/Unidad.vue": [
-    "/assets/Unidad.949fec6b.js"
+    "/assets/Unidad.cee6d528.js"
   ],
   "~icons/ic/sharp-search": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "~icons/ic/baseline-add-circle-outline": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "~icons/mdi/trash-can": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "src/components/UIComponents/DialogConfirm.vue": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "src/components/UIComponents/TableComponent.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "src/components/UIComponents/TableComponent.vue": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "~icons/mdi/arrow-left": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "~icons/mdi/arrow-right": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "~icons/mdi/close-box": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "src/components/UIComponents/DataTableComponent.vue": [
-    "/assets/DataTableComponent.3e8088c0.js",
-    "/assets/DataTableComponent.b3e2e5cc.css"
+    "/assets/DataTableComponent.2d141c6d.js",
+    "/assets/DataTableComponent.b1aa6b98.css"
   ],
   "node_modules/.pnpm/mosha-vue-toastify@1.0.23/node_modules/mosha-vue-toastify/dist/mosha-vue-toastify.es.js": [
-    "/assets/style.cc01f69b.js",
+    "/assets/style.d50ac2b4.js",
     "/assets/style.1af98de6.css"
   ],
   "node_modules/.pnpm/mosha-vue-toastify@1.0.23/node_modules/mosha-vue-toastify/dist/style.css": [
-    "/assets/style.cc01f69b.js",
+    "/assets/style.d50ac2b4.js",
     "/assets/style.1af98de6.css"
   ],
   "src/stores/unidad.ts": [
-    "/assets/unidad.5b81487a.js"
+    "/assets/unidad.0f6abcd8.js"
   ],
   "src/stores/utils.ts": [
-    "/assets/utils.5428a5cd.js"
+    "/assets/utils.068ea219.js"
   ],
-  "src/pages/Reportes.vue": [
-    "/assets/Reportes.827ffa14.js"
+  "src/stores/salidas.ts": [
+    "/assets/Salidas.f97eb600.js"
   ],
-  "src/pages/README.md": [
-    "/assets/README.f9e2f2cd.js"
+  "src/stores/salidasDetalles.ts": [
+    "/assets/Salidas.f97eb600.js"
   ],
-  "src/stores/proveedor.ts": [
-    "/assets/Proveedor.9298d652.js"
-  ],
-  "src/pages/Proveedor.vue": [
-    "/assets/Proveedor.9298d652.js"
-  ],
-  "~icons/mdi/barcode-scan": [
-    "/assets/Producto.60d08bf0.js"
-  ],
-  "src/pages/Producto.vue": [
-    "/assets/Producto.60d08bf0.js"
-  ],
-  "src/stores/producto.ts": [
-    "/assets/producto.c9516f85.js"
-  ],
-  "src/stores/categoria.ts": [
-    "/assets/categoria.c2e9e1b8.js"
-  ],
-  "src/stores/productoUnidad.ts": [
-    "/assets/productoUnidad.3a294b7e.js"
-  ],
-  "src/pages/Proceso.vue": [
-    "/assets/Proceso.74bb93bd.js"
-  ],
-  "src/stores/proceso.ts": [
-    "/assets/proceso.020e99df.js"
-  ],
-  "~icons/mdi/auto-download": [
-    "/assets/Pedidos.5507aa5e.js"
-  ],
-  "src/pages/Pedidos.vue": [
-    "/assets/Pedidos.5507aa5e.js"
+  "src/pages/Salidas.vue": [
+    "/assets/Salidas.f97eb600.js"
   ],
   "~icons/mdi/close": [
-    "/assets/InputSearch.f949d82d.js",
+    "/assets/InputSearch.8b7c2964.js",
     "/assets/InputSearch.92cad239.css"
   ],
   "src/components/UIComponents/InputSearch.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/InputSearch.f949d82d.js",
+    "/assets/InputSearch.8b7c2964.js",
     "/assets/InputSearch.92cad239.css"
   ],
   "src/components/UIComponents/InputSearch.vue": [
-    "/assets/InputSearch.f949d82d.js",
+    "/assets/InputSearch.8b7c2964.js",
     "/assets/InputSearch.92cad239.css"
   ],
+  "~icons/mdi/auto-download": [
+    "/assets/auto-download.32fe4334.js"
+  ],
+  "src/stores/proceso.ts": [
+    "/assets/proceso.99f92022.js"
+  ],
+  "src/stores/producto.ts": [
+    "/assets/producto.cccf2bf2.js"
+  ],
+  "src/pages/Reportes.vue": [
+    "/assets/Reportes.6520b774.js"
+  ],
+  "src/pages/README.md": [
+    "/assets/README.28696b54.js"
+  ],
+  "src/pages/Proveedor.vue": [
+    "/assets/Proveedor.7fcf9854.js"
+  ],
+  "src/stores/proveedor.ts": [
+    "/assets/proveedor.eae2862d.js"
+  ],
+  "~icons/mdi/barcode-scan": [
+    "/assets/Producto.7d7523c3.js"
+  ],
+  "src/pages/Producto.vue": [
+    "/assets/Producto.7d7523c3.js"
+  ],
+  "src/stores/categoria.ts": [
+    "/assets/categoria.8403ab8b.js"
+  ],
+  "src/stores/productoUnidad.ts": [
+    "/assets/productoUnidad.4a4225e7.js"
+  ],
+  "src/pages/Proceso.vue": [
+    "/assets/Proceso.a2b8063f.js"
+  ],
+  "src/pages/Pedidos.vue": [
+    "/assets/Pedidos.c1c21924.js"
+  ],
   "src/stores/pedidos.ts": [
-    "/assets/pedidosDetalles.7298fe1e.js"
+    "/assets/pedidosDetalles.59ee7c2b.js"
   ],
   "src/stores/pedidosDetalles.ts": [
-    "/assets/pedidosDetalles.7298fe1e.js"
+    "/assets/pedidosDetalles.59ee7c2b.js"
   ],
   "src/stores/almacen.ts": [
-    "/assets/almacen.518a49f1.js"
-  ],
-  "src/stores/notas.ts": [
-    "/assets/Notas.35ff7d39.js"
+    "/assets/almacen.b89eb5ed.js"
   ],
   "src/stores/notasdetalles.ts": [
-    "/assets/Notas.35ff7d39.js"
+    "/assets/Notas.14949170.js"
   ],
   "src/pages/Notas.vue": [
-    "/assets/Notas.35ff7d39.js"
+    "/assets/Notas.14949170.js"
   ],
-  "src/stores/lote.ts": [
-    "/assets/Lote.60b85a61.js"
+  "src/stores/notas.ts": [
+    "/assets/notas.620e8997.js"
   ],
   "src/pages/Lote.vue": [
-    "/assets/Lote.60b85a61.js"
+    "/assets/Lote.3d6698e7.js"
+  ],
+  "src/stores/lote.ts": [
+    "/assets/lote.f856ed2b.js"
   ],
   "~icons/flat-color-icons/broken-link": [
-    "/assets/Login.3a07c66a.js"
+    "/assets/Login.ed23c1ed.js"
   ],
   "src/pages/Login.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/Login.3a07c66a.js"
+    "/assets/Login.ed23c1ed.js"
   ],
   "src/pages/Login.vue": [
-    "/assets/Login.3a07c66a.js"
+    "/assets/Login.ed23c1ed.js"
   ],
   "src/stores/entradas.ts": [
-    "/assets/Entradas.5ccf6ddd.js"
+    "/assets/Entradas.a5af3a38.js"
   ],
   "src/stores/entradasDetalles.ts": [
-    "/assets/Entradas.5ccf6ddd.js"
+    "/assets/Entradas.a5af3a38.js"
   ],
   "src/pages/Entradas.vue": [
-    "/assets/Entradas.5ccf6ddd.js"
+    "/assets/Entradas.a5af3a38.js"
+  ],
+  "src/stores/procesolote.ts": [
+    "/assets/Compras.4aecd6e9.js"
+  ],
+  "src/pages/Compras.vue": [
+    "/assets/Compras.4aecd6e9.js"
   ],
   "src/pages/Components.vue": [
-    "/assets/Components.432b648a.js"
+    "/assets/Components.8a9cc6db.js"
   ],
   "src/pages/Categoria.vue": [
-    "/assets/Categoria.de753414.js"
+    "/assets/Categoria.37bc64c4.js"
   ],
   "src/pages/Almacen.vue": [
-    "/assets/Almacen.be0824d9.js"
+    "/assets/Almacen.196c4f0d.js"
   ],
   "~icons/carbon/dicom-overlay": [
-    "/assets/about.c31651db.js"
+    "/assets/about.57b217c2.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.c31651db.js"
+    "/assets/about.57b217c2.js"
   ],
   "~icons/carbon/pedestrian": [
-    "/assets/[name].b21929ee.js"
+    "/assets/[name].2a7f1134.js"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/[name].b21929ee.js"
+    "/assets/[name].2a7f1134.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/[...all].d12152df.js"
+    "/assets/[...all].899ea57c.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/[...all].d12152df.js"
+    "/assets/[...all].899ea57c.js"
   ],
   "~icons/carbon/warning": [
-    "/assets/404.0ee31fb8.js"
+    "/assets/404.96974ca3.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.0ee31fb8.js"
+    "/assets/404.96974ca3.js"
   ],
   "src/layouts/empty.vue": [
-    "/assets/empty.11ff5224.js"
+    "/assets/empty.92d7797f.js"
   ]
 }

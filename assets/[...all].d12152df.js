@@ -1,1 +1,0 @@
-import{h as t,M as o,o as s,d as a,t as n,k as r}from"./vendor.f30c4ba5.js";var e={};const f=t({setup(t){const{t:e}=o();return(t,o)=>(s(),a("div",null,n(r(e)("not-found")),1))}});"function"==typeof e&&e(f);export{f as default};
